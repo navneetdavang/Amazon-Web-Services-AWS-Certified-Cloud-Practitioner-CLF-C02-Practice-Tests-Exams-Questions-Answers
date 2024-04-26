@@ -3,5 +3,5 @@ node_modules
 images
 dist
 
-*.md
-*.json
+**/*.json
+**/*.md
