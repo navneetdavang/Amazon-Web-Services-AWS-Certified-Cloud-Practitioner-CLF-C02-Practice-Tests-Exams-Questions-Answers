@@ -2216,8 +2216,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A company needs to track resource changes using the API call history. Which AWS service can help the company achieve this goal?
 
 - [ ] AWS Config.
-- [x] Amazon CloudWatch.
-- [ ] AWS CloudTrail.
+- [ ] Amazon CloudWatch.
+- [x] AWS CloudTrail.
 - [ ] AWS CloudFormation.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2422,8 +2422,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of the following is NOT a characteristic of Amazon Elastic Compute Cloud (Amazon EC2)?
 
-- [ ] Amazon EC2 is considered a Serverless Web Service.
-- [x] Amazon EC2 eliminates the need to invest in hardware upfront.
+- [x] Amazon EC2 is considered a Serverless Web Service.
+- [ ] Amazon EC2 eliminates the need to invest in hardware upfront.
 - [ ] Amazon EC2 can launch as many or as few virtual servers as needed.
 - [ ] Amazon EC2 offers scalable computing.
 
@@ -2987,9 +2987,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### According to best practices, which of the below options is best suited for processing a large number of binary files?
 
 - [ ] Vertically scaling EC2 instances.
-- [x] Running RDS instances in parallel.
+- [ ] Running RDS instances in parallel.
 - [ ] Vertically scaling RDS instances.
-- [ ] Running EC2 instances in parallel.
+- [x] Running EC2 instances in parallel.
 
 **[⬆ Back to Top](#table-of-contents)**
 

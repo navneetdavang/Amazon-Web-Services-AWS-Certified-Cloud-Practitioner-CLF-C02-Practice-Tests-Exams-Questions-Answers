@@ -1,0 +1,2 @@
+# Linting and formatting
+npm run lint && npm run format

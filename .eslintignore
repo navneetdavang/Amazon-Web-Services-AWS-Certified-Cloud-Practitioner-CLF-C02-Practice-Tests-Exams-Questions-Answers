@@ -1,0 +1,8 @@
+node_modules
+dist
+.github/
+images
+.out
+
+*.json
+*.md
